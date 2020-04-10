@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'cool-places',
+    modulePrefix: 'coolus',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
