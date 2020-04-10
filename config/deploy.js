@@ -8,13 +8,13 @@ module.exports = function(deployTarget) {
       type: 'git-commit'
     },
     'ssh-index': {
-      remoteDir: "/var/www/keepcool",
-      username: "keepcool",
+      remoteDir: "/var/www/coolus",
+      username: "coolus",
       host: "54.145.243.75",
       allowOverwrite: true
     },
     rsync: {
-      dest: "/var/www/keepcool",
+      dest: "/var/www/coolus",
       username: "www",
       host: "54.145.243.75",
       delete: false
