@@ -1,6 +1,6 @@
-# Cool-places
+# Coolus
 
-This README outlines the details of collaborating on this Ember application.
+This outlines the details of collaborating cool places on this Ember application.
 A short introduction of this app could easily go here.
 
 ## Prerequisites
