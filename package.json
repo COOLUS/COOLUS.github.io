@@ -1,7 +1,7 @@
 {
-  "name": "cool-places",
+  "name": "Coolus",
   "version": "0.0.0",
-  "description": "Small description for cool-places goes here",
+  "description": "The Coolus outlines the cool places for your curiosity",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -17,7 +17,7 @@
     "node": ">= 0.10.0"
   },
   "author": "",
-  "license": "MIT",
+  "license": "MIT, AGPL-3.0+",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
     "broccoli-manifest": "0.0.7",
